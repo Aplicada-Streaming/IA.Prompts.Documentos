@@ -15,6 +15,9 @@ y este proyecto adhiere a [Versionado Semántico](https://semver.org/lang/es/).
     necesarios (rules, rulesets, profile).
   - `PROMPTs/Refactorizacion.md`: prompt para refactorizar y agrupar los prompts
     del repositorio, ajustando las referencias internas.
+  - `PROMPTs/Refactorizando-Repo-Nombre.md`: prompt para actualizar las
+    referencias internas tras el renombrado del repositorio
+    `IA.Prompting.Templates` a `IA.Prompts.Documentos` y su traslado a `/IA`.
 - `CHANGELOG.md` para el registro de cambios del repositorio.
 
 ## [0.1.0] - 2026-07-16
