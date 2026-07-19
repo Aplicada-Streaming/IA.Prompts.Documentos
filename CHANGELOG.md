@@ -19,6 +19,9 @@ y este proyecto adhiere a [Versionado Semántico](https://semver.org/lang/es/).
     referencias internas tras el renombrado del repositorio
     `IA.Prompting.Templates` a `IA.Prompts.Documentos` y su traslado a `/IA`.
 - `CHANGELOG.md` para el registro de cambios del repositorio.
+- Carpeta `Tareas/` con `Tareas/Mis-Tareas.md`, listado de tareas pendientes
+  sobre la detección de derivación de agentes durante las etapas de SDD y de
+  codeo.
 
 ## [0.1.0] - 2026-07-16
 
