@@ -23,6 +23,14 @@ y este proyecto adhiere a [Versionado Semántico](https://semver.org/lang/es/).
   sobre la detección de derivación de agentes durante las etapas de SDD y de
   codeo.
 
+### Cambiado
+
+- `PROMPTs/Creacion-Prompt.md`, `PROMPTs/Refactorizacion.md` y
+  `PROMPTs/Refactorizando-Repo-Nombre.md`: se añaden separadores `---` entre
+  secciones para mejorar la legibilidad.
+- `PROMPTs/Creacion-Prompt.md`: se anonimizan el dominio, las credenciales y las
+  rutas de ejemplo (dominio, usuario y clave sustituidos por marcadores).
+
 ## [0.1.0] - 2026-07-16
 
 ### Añadido
